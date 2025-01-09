@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_recycler_view" type="id" />
+    <item name="text_view_restaurant_name" type="id" />
+    <item name="textViewRestaurantName" type="id" />
+    <item name="textViewReservationDetails" type="id" />
+    <item name="editTextOpeningHours" type="id" />
+</resources>

@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "restaurant": "McDonald's",
+        "type": "Fast Food",
+        "location": "New York",
+        "rating": "4.5/5",
+        "image": "mcdonalds_thumbnail.png",
+        "description": "McDonald",
+        "openingHours" : {
+            "open" : "10:00",
+            "close" : "22:00"
+        },
+        "Menu": [
+            {
+                "id": 1,
+                "name": "burger",
+                "price": 10,
+                "image": "menu_burger.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "fries",
+                "price": 5,
+                "image": "fries.jpeg"
+            },
+            {
+                "id": 3,
+                "name": "coke",
+                "price": 3,
+                "image": "menu_coke.jpeg"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 2,
+        "restaurant": "KFC",
+        "type": "Fast Food",
+        "location": "New York",
+        "rating": "4/5",
+        "image": "kfc_thumbnail.png",
+        "description": "KFC",
+        "openingHours" : {
+            "open" : "11:00",
+            "close" : "23:00"
+        },
+        "Menu": [
+            {
+                "id": 1,
+                "name": "chicken",
+                "price": 15,
+                "image": "chicken.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "wings.jpeg",
+                "price": 12,
+                "image": "wings.jpeg"
+            },
+            {
+                "id": 3,
+                "name": "chicken burger",
+                "price": 5,
+                "image": "chicken_burger.jpeg"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 3,
+        "restaurant": "Burger King",
+        "type": "Fast Food",
+        "location": "New York",
+        "rating": "4.3/5",
+        "image": "burgerking_thumbnail.png",
+        "description": "Burger King",
+        "openingHours" : {
+            "open" : "10:00",
+            "close" : "22:00"
+        },
+        "Menu": [
+            {
+                "id": 1,
+                "name": "burger",
+                "price": 12,
+                "image": "menu_burger.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "fries",
+                "price": 4,
+                "image": "fries.jpeg"
+            },
+            {
+                "id": 3,
+                "name": "coke",
+                "price": 4,
+                "image": "menu_coke.jpeg"
+
+            }
+        ]
+    }
+    ,
+    {
+        "id": 4,
+        "restaurant": "Pizza Hut",
+        "type": "Fast Food",
+        "location": "New York",
+        "rating": "4.2/5",
+        "image": "pizzahut_thumbnail.png",
+        "description": "Pizza Hut",
+        "openingHours" : {
+            "open" : "9:00",
+            "close" : "20:00"
+        },
+        "Menu": [
+            {
+                "id": 1,
+                "name": "pizza",
+                "price": 12,
+                "image": "menu_pizza.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "Spaghetti",
+                "price": 7,
+                "image": "menu_spaghetti.jpeg"
+            },
+            {
+                "id": 3,
+                "name": "Beer",
+                "price": 5,
+                "image": "beer.jpeg"
+            }
+        ]
+    }
+]
